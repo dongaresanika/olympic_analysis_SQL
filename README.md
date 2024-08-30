@@ -1,1 +1,1 @@
-# olympic_analysis_SQL
+# Analysis project 
